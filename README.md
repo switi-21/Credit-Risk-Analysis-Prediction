@@ -57,9 +57,12 @@ Power BI dashboard shows:
 ---
 
 ## 📁 Project Structure
-(mention folders)
 
----
+assets/          - Images and dashboard screenshots  
+powerBI/         - Power BI dashboard file  
+python/          - Python source code  
+sql/             - SQL queries  
+README.md        - Project documentation
 
 ## 📌 Conclusion
 This project combines analytics + ML to simulate real-world credit risk modeling used in banks.
