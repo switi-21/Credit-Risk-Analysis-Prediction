@@ -68,7 +68,7 @@ README.md    - Project documentation
 
 ## 📊 Dashboard Preview
 
-![Dashboard](assets/details.png)
+![Dashboard](assets/details.jpg)
 
 ## Dataset Notice
 
